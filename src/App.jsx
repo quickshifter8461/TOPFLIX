@@ -1,5 +1,5 @@
 import React from 'react'
-import MoviePage from './assets/components/MoviePage'
+import MoviePage from './components/MoviePage'
 
 
 function App() {

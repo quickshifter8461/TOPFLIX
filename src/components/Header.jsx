@@ -25,7 +25,7 @@ function Header({ industry }) {
                 <span className="navbar-toggler-icon text-primary" />
               </button>
               <div
-                className="offcanvas offcanvas-end colored"
+                className="offcanvas offcanvas-end colored w-50"
                 tabIndex={-1}
                 id="offcanvasNavbar"
                 aria-labelledby="offcanvasNavbarLabel"
