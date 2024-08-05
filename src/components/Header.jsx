@@ -8,9 +8,7 @@ function Header({ industry }) {
           <nav className="navbar navbar-expand-lg container py-2">
             <div className="container-fluid px-0">
               <a className="navbar-brand m-0 fs-3 rubik" href="#">
-                <img
-                  src="../src/assets/topflix.jpg"
-                  alt="TOPFLIX logo"
+                <img src="/Images/topflix.jpg" alt="TOPFLIX logo"
                   className="logo"
                 />
               </a>
