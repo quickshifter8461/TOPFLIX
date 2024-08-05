@@ -6,8 +6,8 @@ function Header({ industry }) {
       <div className="navbar bg-color sticky-top" data-bs-theme="dark">
         <div className="container ">
           <nav className="navbar navbar-expand-lg container py-2">
-            <div className="container-fluid px-0">
-              <a className="navbar-brand m-0 fs-3 rubik" href="#">
+            <div className="container d-flex flex-row justify-content-between align-items center">
+              <a className="navbar-brand m-0 fs-3 rubik" href="/">
                 <img src="/Images/topflix.jpg" alt="TOPFLIX logo"
                   className="logo"
                 />
