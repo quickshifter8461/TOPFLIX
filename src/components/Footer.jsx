@@ -14,7 +14,7 @@ function Footer() {
         </span>
         <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
           <li class="ms-3">
-            <a class="" href="#">
+            <a class="" href="https://www.instagram.com/quick__shifter/">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="24"
@@ -28,7 +28,7 @@ function Footer() {
             </a>
           </li>
           <li class="ms-3">
-            <a class="" href="#">
+            <a class="" href="https://x.com/Vishnu_p_95">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="24"
@@ -42,7 +42,7 @@ function Footer() {
             </a>
           </li>
           <li class="ms-3">
-            <a class="" href="#">
+            <a class="" href="https://github.com/quickshifter8461">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="24"
